@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "my_extension",
+    "description": "It contains all my social media handles",
+    "version": "1.0.0",
+    "icons":{
+        "128" : "icon128.png"
+    },
+    "browser_action":{
+        "default_popup":"social_media_handles.html"
+    },
+    "permissions": ["activeTab"]
+}
