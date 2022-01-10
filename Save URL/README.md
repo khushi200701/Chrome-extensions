@@ -1,3 +1,4 @@
-<img src="./icon.png" width="200" height="200" />
+<img src="./icon.png" width="100" height="100" />
+<img src="./Screenshot_1.png"  height="200" />
 
-![ss](./Screenshot_1.png)
+
